@@ -1,4 +1,4 @@
-# (Nombre del proyecto)  
+# (IMAGINA SER EL RATONCITO PÉREZ)  
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,15 +9,15 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : IMAGINA SER EL RATONCITO PÉREZ
 
 **Autor(es)** ______________
 
-**Resumen** : _________
+**Resumen** : Un hombre cree ser el Ratoncito Pérez y dedice embarcarse en una aventura en búsqueda de los dientes de los niños de la ciudad.
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): El Ratoncito Pérez nunca pide permiso
 
 **Hashtag**  ___
 
