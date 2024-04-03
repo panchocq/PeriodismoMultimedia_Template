@@ -1,4 +1,4 @@
-# (IMAGINA SER EL RATONCITO PÉREZ)  
+# IMAGINA SER EL RATONCITO PÉREZ 
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
