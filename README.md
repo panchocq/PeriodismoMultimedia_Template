@@ -11,19 +11,19 @@ Univesidad de Granada
 
 **Titulo** : _______
 
-**Autor(es)** ______________
+**Autor(es)** Francisco Calderón, Cristobal Angulo y Claudia Pantigas 
 
 **Resumen** : _________
 
-**logotipo** :  ________
+**logotipo** : ![logotipo](https://www.premiosgoya.com/wp-content/uploads/2016/01/P%C3%A9rez-el-ratoncito-de-tus-sue%C3%B1os-320x449.jpg)
 
 **Slogan** (frase motivadora/inspiradora): ________
 
-**Hashtag**  ___
+**Hashtag**  #ElRatoncitoPérez #NoPidePermiso
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2024
+**Fecha** : Abril 2024
 
 **Medios** (donde se tiene presencia): 
 
@@ -32,8 +32,6 @@ Univesidad de Granada
 * ArcWeave:
 * Protopie:
 *  
-
-
 
 --- 
 
