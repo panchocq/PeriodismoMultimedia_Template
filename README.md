@@ -17,24 +17,20 @@ Univesidad de Granada
 
 **logotipo** : ![logotipo](https://iili.io/J8YIUHN.jpg)
 
-
-
-
 **Slogan**: "El Ratoncito Pérez nunca pide permiso"
 
-**Hashtag**  #ElRatoncitoPérez #NoPidePermiso
+**Hashtag**: #ElRatoncitoPérez #NoPidePermiso
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia**:  Revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
 **Fecha** : Abril 2024
 
-**Medios** (donde se tiene presencia): 
+**Medios**:
 
 
-* :octocat: (github url) 
+* Viv: https://a-imaginaratonperez.vev.site/el-ratoncito-perez
 * ArcWeave: https://arcweave.com/app/project/v4lxYvNEJO/play
 * Protopie: https://cloud.protopie.io/p/b621857ce93c99ad80ebc93d
-*  
 
 --- 
 
@@ -61,60 +57,28 @@ Para el desarrollo de los productos, hemos definido una estética basada en el p
 
 * Imagen visual:
 
-*  ![logotipo](https://storage.googleapis.com/media.arcweave.com/ProdServer/projects/v4lxYvNEJO/images/1713116634_661c15da38197.png)
+![logotipo](https://storage.googleapis.com/media.arcweave.com/ProdServer/projects/v4lxYvNEJO/images/1713116634_661c15da38197.png)
 
- ![logotipo](https://storage.googleapis.com/media.arcweave.com/ProdServer/projects/v4lxYvNEJO/images/1713117259_661c184b099f3.png)
+![logotipo](https://storage.googleapis.com/media.arcweave.com/ProdServer/projects/v4lxYvNEJO/images/1713117259_661c184b099f3.png)
 
-  ![logotipo](https://storage.googleapis.com/media.arcweave.com/ProdServer/projects/v4lxYvNEJO/images/1713116941_661c170d72bc1.jpeg))
-
-
-### Etapa 3: Técnicas de evaluación utilizadas
-
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
-
-* Test con usuarios (...) 
-* ... 
+![logotipo](https://storage.googleapis.com/media.arcweave.com/ProdServer/projects/v4lxYvNEJO/images/1713116941_661c170d72bc1.jpeg))
 
 
+### Etapa 3: Técnicas de evaluación a utilizar
 
+Para evaluar nuestra propuesta, proponemos una prueba con usuarios, en la que las personas puedan interactuar con el sitio web y los juegos en Arcwave y Protopie, de manera de ver si se cumplen las expectativas. En caso de identificar problemas en algunos momentos del juego, aplicaríamos las modificaciones correspondientes. 
+
+Esto lo realizaríamos a través de una campaña a través de redes sociales, donde se invitará a las personas a ser parte de la experiencia y evaluar el juego, identificando los aspectos positivos y negativos. 
 
 
 ### Conclusiones y trabajo futuro
 
-
-* Grado de consecución del proyecto 
+* Por ahora, el proyecto "Imagina que eres el Ratoncito Pérez" es solo un prototipo, con una historia reducida, pero con proyecciones a poder ampliarse mucho más. Las evaluaciones y reacciones de parte de los usuarios podrían
+  
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
 
-
-Referencias y recursos: 
-
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de me
-
-(...)
-
-
-
-
-
-
-----
-
-**Referencias y recursos utilizados** :
-
-* [Proceso UX](https://uxmastery.com/resources/process/)
-* [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
-* [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
-* [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* (...) 
-
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
 
 
 
