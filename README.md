@@ -11,7 +11,7 @@ Univesidad de Granada
 
 **Autor(es)** Francisco Calderón, Cristobal Angulo y Claudia Pantigas 
 
-**Resumen** : Un hombre cree ser el Ratoncito Pérez y dedice embarcarse en una aventura en búsqueda de los dientes de los niños de la ciudad.
+**Resumen** : Un hombre cree ser el Ratoncito Pérez y decide embarcarse en una aventura en búsqueda de los dientes de los niños de la ciudad.
 
 ![logotipo](https://iili.io/J8YIUHN.jpg)
 
