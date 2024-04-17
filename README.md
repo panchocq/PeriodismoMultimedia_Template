@@ -19,7 +19,7 @@ Univesidad de Granada
 
 **Hashtag**: #ElRatoncitoPérez #NoPidePermiso
 
-**Licencia**:  Revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia**:  Revisar en https://creativecommons.org/licenses/?lang=es_ES
 
 **Fecha** : Abril 2024
 
@@ -38,7 +38,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 ### Etapa 1: Ideación de proyecto 
 
-A través de una lluvia de ideas colaborativa, obtuvimos una idea a partir de la siguiente frase: Un hombre bajo de los efectos de los alucinógenos, cree que es el Ratoncito Pérez". A partir de allí, comenzó el proceso creativo para desarrollar una historia aplicable a distintas plataformas. 
+A través de una lluvia de ideas colaborativa, obtuvimos una idea a partir de la siguiente frase: Un hombre bajo de los efectos de los alucinógenos, cree que es el Ratoncito Pérez. A partir de allí, comenzó el proceso creativo para desarrollar una historia aplicable a distintas plataformas. 
 
 **Motivación de la propuesta**: Elegimos la propuesta porque consideramos que la temática podría desarrollarse ampliamente, de forma cómica y además con una trama interesante que podría interesarle a los posibles usuarios. 
 
@@ -57,7 +57,7 @@ Para el desarrollo de los productos, hemos definido una estética basada en el p
 
 ![logotipo](https://storage.googleapis.com/media.arcweave.com/ProdServer/projects/v4lxYvNEJO/images/1713117259_661c184b099f3.png)
 
-![logotipo](https://storage.googleapis.com/media.arcweave.com/ProdServer/projects/v4lxYvNEJO/images/1713116941_661c170d72bc1.jpeg))
+![logotipo](https://storage.googleapis.com/media.arcweave.com/ProdServer/projects/v4lxYvNEJO/images/1713116941_661c170d72bc1.jpeg)
 
 
 ### Etapa 3: Técnicas de evaluación a utilizar
@@ -69,7 +69,7 @@ Esto lo realizaríamos a través de una campaña a través de redes sociales, do
 
 ### Conclusiones y trabajo futuro
 
-* Por ahora, el proyecto "Imagina que eres el Ratoncito Pérez" es solo un prototipo, con una historia reducida, pero con proyecciones a poder ampliarse mucho más. Las evaluaciones y reacciones de parte de los usuarios podrían darnos luces sobre de qué manera podríamos expandir la historia y en qué plataforma podríamos enfocarnos. 
+* Por ahora, el proyecto "Imagina ser el Ratoncito Pérez" es solo un prototipo, con una historia reducida, pero con proyecciones a poder ampliarse mucho más. Las evaluaciones y reacciones de parte de los usuarios podrían darnos luces sobre de qué manera podríamos expandir la historia y en qué plataforma podríamos enfocarnos. 
   
 * Problemas identificados: Uno de los problemas identificados en el desarrollo del proyecto fue lo acotado en el tiempo, lo que solo nos permitió desarrollar de una forma más amplia o detallada el proyecto. Además, ante la necesidad de contar con material gráfico, tuvimos que recurrir a imágenes de stock gratuitas, que también nos genera ciertas limitantes. Sumado a ello, al estar aprendiendwo recientemente a utilizar cada plataforma, en ciertos momentos hubo dificultades para poder desarrollar algunas acciones. 
 
