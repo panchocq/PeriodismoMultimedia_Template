@@ -13,7 +13,7 @@ Univesidad de Granada
 
 **Resumen** : Un hombre cree ser el Ratoncito Pérez y dedice embarcarse en una aventura en búsqueda de los dientes de los niños de la ciudad.
 
-**logotipo** : ![logotipo](https://iili.io/J8YIUHN.jpg)
+![logotipo](https://iili.io/J8YIUHN.jpg)
 
 **Slogan**: "El Ratoncito Pérez nunca pide permiso"
 
