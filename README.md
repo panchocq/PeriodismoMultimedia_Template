@@ -15,9 +15,12 @@ Univesidad de Granada
 
 **Resumen** : Un hombre cree ser el Ratoncito Pérez y dedice embarcarse en una aventura en búsqueda de los dientes de los niños de la ciudad.
 
-**logotipo** : ![logotipo](https://www.premiosgoya.com/wp-content/uploads/2016/01/P%C3%A9rez-el-ratoncito-de-tus-sue%C3%B1os-320x449.jpg)
+**logotipo** : ![logotipo](https://iili.io/J8YIUHN.jpg)
 
-**Slogan** (frase motivadora/inspiradora): El Ratoncito Pérez nunca pide permiso
+
+
+
+**Slogan**: "El Ratoncito Pérez nunca pide permiso"
 
 **Hashtag**  #ElRatoncitoPérez #NoPidePermiso
 
@@ -29,8 +32,8 @@ Univesidad de Granada
 
 
 * :octocat: (github url) 
-* ArcWeave:
-* Protopie:
+* ArcWeave: https://arcweave.com/app/project/v4lxYvNEJO/play
+* Protopie: https://cloud.protopie.io/p/b621857ce93c99ad80ebc93d
 *  
 
 --- 
@@ -41,43 +44,29 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
-
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
-
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
-
+A través de una lluvia de ideas colaborativa, obtuvimos una idea a partir de la siguiente frase: Un hombre bajo de los efectos de los alucinógenos, cree que es el Ratoncito Pérez". A partir de allí, comenzó el proceso creativo para desarrollar una historia aplicable a distintas plataformas. 
 
 **Necesidad/oportunidad** 
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta**: Elegimos la propuesta porque consideramos que la temática podría desarrollarse ampliamente, de forma cómica y además con una trama interesante que podría interesarle a los posibles usuarios. 
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios**: Nuestro público objetivo son jóvenes que les divierte adentrarse en historias curiosas, un poco raras y perturbadoras.
 
-**Estilo de narración**  (...indica como se hace uso de los medios)  
-
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
-
-
-![gato](https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg)
+**Estilo de narración**: Como medio principal, hemos creado un sitio web, en el cual presentamos el proyecto, a través de una introducción que adentra al usuario en el tono de misterio y comedia que caracteriza a la trama, para luego dar paso al vínculo con juegos interactivos creados en Arcwave y Protopie, donde el usuario toma parte activa del desarrollo de la historia. 
 
 
 ### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
+Para el desarrollo de los productos, hemos definido una estética basada en el pixel art, con un tono oscuro y al mismo tiempo divertido, que intrige al usuario y lo anime a averiguar sobre el desarrollo de la historia. 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+* Imagen visual:
 
-* redes sociales (...) 
+*  ![logotipo](https://storage.googleapis.com/media.arcweave.com/ProdServer/projects/v4lxYvNEJO/images/1713116634_661c15da38197.png)
 
-* publicidad: banner (... ) 
+ ![logotipo](https://storage.googleapis.com/media.arcweave.com/ProdServer/projects/v4lxYvNEJO/images/1713117259_661c184b099f3.png)
 
-* ...
+  ![logotipo](https://storage.googleapis.com/media.arcweave.com/ProdServer/projects/v4lxYvNEJO/images/1713116941_661c170d72bc1.jpeg))
+
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
