@@ -28,7 +28,7 @@ Univesidad de Granada
 
 * Vev: https://a-imaginaratonperez.vev.site/el-ratoncito-perez
 * ArcWeave: https://arcweave.com/app/project/v4lxYvNEJO/play
-* Protopie: https://cloud.protopie.io/p/b621857ce93c99ad80ebc93d?ui=true&scaleToFit=true&enableHotspotHints=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&bgImage=undefined&playSpeed=1
+* Protopie: https://cloud.protopie.io/p/b621857ce93c99ad80ebc93d
 
 --- 
 
