@@ -26,7 +26,7 @@ Univesidad de Granada
 **Medios**:
 
 
-* Viv: https://a-imaginaratonperez.vev.site/el-ratoncito-perez
+* Vev: https://a-imaginaratonperez.vev.site/el-ratoncito-perez
 * ArcWeave: https://arcweave.com/app/project/v4lxYvNEJO/play
 * Protopie: https://cloud.protopie.io/p/b621857ce93c99ad80ebc93d
 
