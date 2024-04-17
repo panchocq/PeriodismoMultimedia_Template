@@ -40,8 +40,6 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 A través de una lluvia de ideas colaborativa, obtuvimos una idea a partir de la siguiente frase: Un hombre bajo de los efectos de los alucinógenos, cree que es el Ratoncito Pérez". A partir de allí, comenzó el proceso creativo para desarrollar una historia aplicable a distintas plataformas. 
 
-**Necesidad/oportunidad** 
-
 **Motivación de la propuesta**: Elegimos la propuesta porque consideramos que la temática podría desarrollarse ampliamente, de forma cómica y además con una trama interesante que podría interesarle a los posibles usuarios. 
 
 **Personas/Usuarios**: Nuestro público objetivo son jóvenes que les divierte adentrarse en historias curiosas, un poco raras y perturbadoras.
@@ -71,21 +69,12 @@ Esto lo realizaríamos a través de una campaña a través de redes sociales, do
 
 ### Conclusiones y trabajo futuro
 
-* Por ahora, el proyecto "Imagina que eres el Ratoncito Pérez" es solo un prototipo, con una historia reducida, pero con proyecciones a poder ampliarse mucho más. Las evaluaciones y reacciones de parte de los usuarios podrían
+* Por ahora, el proyecto "Imagina que eres el Ratoncito Pérez" es solo un prototipo, con una historia reducida, pero con proyecciones a poder ampliarse mucho más. Las evaluaciones y reacciones de parte de los usuarios podrían darnos luces sobre de qué manera podríamos expandir la historia y en qué plataforma podríamos enfocarnos. 
   
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+* Problemas identificados: Uno de los problemas identificados en el desarrollo del proyecto fue lo acotado en el tiempo, lo que solo nos permitió desarrollar de una forma más amplia o detallada el proyecto. Además, ante la necesidad de contar con material gráfico, tuvimos que recurrir a imágenes de stock gratuitas, que también nos genera ciertas limitantes. Sumado a ello, al estar aprendiendwo recientemente a utilizar cada plataforma, en ciertos momentos hubo dificultades para poder desarrollar algunas acciones. 
 
-
-
-
-
-
-
-
-
-
-
+* Propuestas de mejora: Consideramos que el proyecto tiene una amplia proyección, ya que la historia es innovadora y creemos que puede llamar la atención de usuarios jóvenes, con interés en narrativas distintas e intrigantes. Además, pueden abrirse diferentes tramas, respecto a lo que le puede ir sucediendo al personaje principal en su aventura, como también en profundizar con su historia previa. 
+  
+* Posible interés del proyecto: Consideramos que el proyecto es viable y que puede ser interesante para desarrollarse de forma independiente, a través de la difusión en redes sociales y la creación de comunidad en torno a la historia. A largo plazo, si el proyecto consigue un amplio interés de usuarios, podría existir una intención de financiación de parte de alguna empresa para desarrollarlo de forma más compleja. 
 
 
